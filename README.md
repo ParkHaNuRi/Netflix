@@ -12,4 +12,4 @@
 - CSS
 <br><br>
 
-## [💻Demo](https://song0331.github.io/Netflix/)
+# [💻Demo](https://parkhanuri.github.io/Netflix/)
